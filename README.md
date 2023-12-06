@@ -2,7 +2,27 @@
 
 > A Bun starter project with high-quality defaults
 
-Great entry point to start your new APIs, library or for some scripting.
+A great entry point to start your new API, library, or for some scripting.
+
+## Get Started
+
+1. Install Bun toolkit
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
+2. Install project dependencies
+
+```
+bun install
+```
+
+3. Run dev mode
+
+```
+bun dev
+```
 
 ## Dependencies
 
@@ -13,3 +33,5 @@ Great entry point to start your new APIs, library or for some scripting.
 ## Recommendations
 
 - [Bun for Visual Studio Code - Official Extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode)
+
+- [Biome - Official Extension](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
