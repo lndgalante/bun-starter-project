@@ -33,5 +33,4 @@ bun dev
 ## Recommendations
 
 - [Bun for Visual Studio Code - Official Extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode)
-
 - [Biome - Official Extension](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
