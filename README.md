@@ -1,6 +1,6 @@
 # Bun Starter Project
 
-> A Bun starter project with high-quality defaults
+> A lightweight and barebones Bun starter project with quality defaults
 
 A great entry point to start your new API, library, or for some scripting.
 
